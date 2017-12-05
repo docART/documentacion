@@ -3,6 +3,8 @@
 
 ![grafema](https://github.com/docART/docs/blob/recipe/prototyping/grafemas/docart27.jpeg)
 
+![Notas discretas pulverizadas en la pared](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/photo5791947176467868410.jpg)
+
 *Grafema: Dibujo de un percurso de aprendizaje marcado por hitos*
 
  ## Contexto: ## 
@@ -20,7 +22,7 @@ Las comunidades pueden optar por favorecer otras formas de relacionarse entre s�
 Nuestra propuesta se explica pronto: la documentación debe incorporar la dimensión afectiva del proceso, bien entendido que su registro es también parte de la investigación. Y no será una parte banal de la investigación, pues estamos tratando con aspectos cognitivos que historicamente han sido tratados como elementos colaterales, contingentes, caprichosos, oportunistas o tóxicos. Tales aspectos no son objetivables, por no ser monitorizables ni medibles, pero eso no significa que sean particulares o subjetivos, pues pueden ser expresión de un esfuerzo colectivo para encontrar la forma de hacerlos visibles.  
 
 ## Cómo: ## 
-Para documentar un prototipo tenemos que recoger lo mejor de la tradición que hemos heredado de los ingenieros y de los cientìficos. Eso implica, en pocas palabras, dar cuenta de todos los aspectos prácticos, funcionales y operativos. La documentaciònn puede adoptar muchas formas según quienes sean sus destinatarios. Los manuales, los informes, los papers, los recetarios, los blogs... son formas distintas de documentar que no necesariamente son alternativas. Nuestra propuesta imagina la documentación como una constelación de [notas] (https://github.com/docART/documentacion/blob/recipe/prototyping/06_descripcion_de_nota.md) discretas pulverizadas en una superficie vertical (pizarra, ventana,...) y que pueden ser ordenadas de muchas formas
+Para documentar un prototipo tenemos que recoger lo mejor de la tradición que hemos heredado de los ingenieros y de los cientìficos. Eso implica, en pocas palabras, dar cuenta de todos los aspectos prácticos, funcionales y operativos. La documentaciònn puede adoptar muchas formas según quienes sean sus destinatarios. Los manuales, los informes, los papers, los recetarios, los blogs... son formas distintas de documentar que no necesariamente son alternativas. Nuestra propuesta imagina la documentación como una constelación de [notas] (https://github.com/docART/documentacion/blob/recipe/prototyping/06_descripcion_de_nota.md) discretas pulverizadas en una superficie vertical (pizarra, ventana,...) y que pueden ser ordenadas de muchas formas.
 
 La importancia de los resultados nadie la discute, pero tambièn queremos dar valor a los procesos. En todos los procesos hay momentos de conflicto, bifurcación o puesta en común en los que el grupo actua colectivamente; durante las discusiones es frecuente que los desencuentros y sus evaluaciones reclamen puestas en común que generan esquemas, diagramas, dibujos y, en general, documentos que pretenden fijar los puntos en los que focalizar la atenciòn y desde los que explorar soluciones posibles. Con frecuencia las palabras no bastan y hay quwe hacer visibles las ideas o conflictos.
 
