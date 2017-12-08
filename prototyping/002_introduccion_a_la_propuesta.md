@@ -34,8 +34,9 @@ docART necesita una capa digital que permita el acceso a los proyectos, la visib
 GitHub garantiza la naturaleza [libre](https://es.wikipedia.org/wiki/Cultura_libre) de docArt y la [interoperablidad](https://es.wikipedia.org/wiki/Interoperabilidad) de todos los contenidos.
 
 ## Características de la metodología Doc.Art: ## 
-1) Evita la cultura de resultado, hace hincapié en el proceso. 
-2) Debe dificultar el fork. El grupo debe mantenerse junto por su capacidad empatica y compromiso en querer seguir junto. No se trata de promover consenso por mayoría o autoridad (como en la ciencia). Se trata de promover la escucha y los cuidados: aprender a desaprender.
+En las primeras sesiones acordamos que doccART debería tener varisa caractersticas: 
+1) Dar valor a los procesos y no splo a los resutados. 
+2) Crear un software que dificuyota el fork. Este acuerdo respinde a la convicción de que el grupo debe mantenerse junto y desarrollar su capacidad de empatizar o, en otros términos, de promover la escucha y los cuidados. No se trata de promover la formación de consensos por mayoría, pues queremos que lo impirtante en un grupo non sea lo que los separa o lo que los une, sino sólo aquello que pyeden hacer juntos, más allá de sus afinidades o discrepancias ideológicas, o de cualquier otro tipo. Se trata de promover la escucha y los cuidados: 
 
 ## Quien documenta? ## 
 Si el SL es la referencia, reflexionar sobre el rol del "community manager" para que la documentación sea un conjunto compreensible. Modelos posibles: a) mediador documentalista; b) mediador de "convivencia"; c) "auditor externo", utilizado por CERN para documentar con alejamiento. Función fija o rotativa? 
