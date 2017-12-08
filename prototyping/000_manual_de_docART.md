@@ -1,6 +1,5 @@
 # Manual de docART #
 
-![portada](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/portada1.jpeg)
 ## Aspectos preparatorios ##
 
 [Organización del equipo](https://github.com/docART/documentacion/blob/recipe/prototyping/001_organizacion_del_equipo.md)
@@ -42,3 +41,6 @@ Referencias
 [Tres reglas de oro para el hito](https://github.com/docART/documentacion/blob/recipe/prototyping/19_reglas_de_oro_hito.md)
 
 [Mapa de aprendizajes](https://github.com/docART/documentacion/blob/recipe/prototyping/17_mapa_de_aprendizajes.md)
+
+
+![portada](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/portada1.jpeg)
