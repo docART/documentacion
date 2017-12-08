@@ -1,4 +1,4 @@
-# Indice de docART #
+# Manual de docART #
 
 ![portada](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/portada1.jpeg)
 ## Aspectos preparatorios ##
