@@ -11,18 +11,18 @@ La primera reflexión que se hizo tuvo que ver con el reconocimiento de que no e
 **Organizacion del trabajo:**
 
 En la primera sesión hubo una presentación en la que los participantes describieron sus competencias y habilidades. Así fue como descubrimos nque había tres personas con más competencia en programacion (backend y fronted), dos con habilidades en diseño gráfico y
-tres con más experiencia de investigacion social. Tras las presentaciones abordamos la tarea de hacer una priumnera asignaciòn de tareas y formaciin de subgrupos. 
+tres con más experiencia de investigacion social. Tras las presentaciones abordamos la tarea de hacer una priumnera asignación de tareas y formación de subgrupos. 
 
-**Retos que emergiran:**
+**Retos que afrontar:**
 
-1. cómo tornar visible, cómo comunicar los elementos más sensibles y intangibles (los afectos, los insights...).
-Estos son elementos que siempre sucedem pero que nunca los damos atencion en el proceso de documentacion.
-Sin ellos no podremos ni tornar el prototipo reproducible, ni comunicar la complejidad de su creacion.
+Desde el principio fuimos conscientes de algunos de los retos más importantes:
 
-2. cómo documentar esta parte (que llamamos de hitos) en la plataforma.
+1.Cómo hacer visibles las dimensiones afectivas, tácitos y intangibles del proceso.
 
-Antonio: "Una documentación que no sea memorial, pero que sea memorable" Que no mate lo vivido.
-Citou Borges: "Tengo miedo de estropear las cosas. Si escribo mucho, las echo a perder."
+2.Cómo documentar esta parte invisible, pero real del proceso de producción.
+
+Antonio: "Una documentación que no sea memorial, sino memorable", que no niegue o invisibilice lo vivido.
+Tambièn citó a Borges: "Tengo miedo de estropear las cosas. Si escribo mucho, las echo a perder."
 
 **Decision relevante:**
 
