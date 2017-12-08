@@ -36,7 +36,7 @@ GitHub garantiza la naturaleza [libre](https://es.wikipedia.org/wiki/Cultura_lib
 ## Características de la metodología Doc.Art: ## 
 En las primeras sesiones acordamos que doccART debería tener varisa caractersticas: 
 1) Dar valor a los procesos y no splo a los resutados. 
-2) Crear un software que dificulte el fork. Este acuerdo responde a la convicción de que el grupo debe mantenerse junto y desarrollar su capacidad de empatizar o, en otros términos, de promover la escucha y los cuidados. No queremos promover la formación de consensos por mayoría, pues confiamos en que lo importante en un grupo no sea lo que los separa o lo que los une, sino sólo aquello que pueden hacer juntos, más allá de sus afinidades o discrepancias ideológicas, o de cualquier otro tipo. 
+2) Crear un software que dificulte el [fork](https://es.wikipedia.org/wiki/Bifurcaci%C3%B3n_(desarrollo_de_software)). Este acuerdo responde a la convicción de que el grupo debe mantenerse junto y desarrollar su capacidad de empatizar o, en otros términos, de promover la escucha y los cuidados. No queremos promover la formación de consensos por mayoría, pues confiamos en que lo importante en un grupo no sea lo que los separa o lo que los une, sino sólo aquello que pueden hacer juntos, más allá de sus afinidades o discrepancias ideológicas, o de cualquier otro tipo. 
 
 ## Quién documenta? ## 
 La pregunta sobre quién debe documentar fue objeto de amplia discusión. Tenemos claro que la documentación debe conformar un todo comprensible y consistente. Para lograrlo hay varios modelos posibles, entre los cuales se evaluó la posibilidad del mediador documentalista, suministrado por la organizaciòn del laboratorio y, cuyas funciones complemetarían las habituales de un mediador de "convivencia". 
