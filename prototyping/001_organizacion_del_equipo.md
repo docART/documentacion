@@ -2,7 +2,7 @@
 *6 de noviembre, 2017*
 
 
-**Formacion del equipo**
+**Formación del equipo**
 
 En tèrminos generales se puede decir que un prototipo siempre se hace a partir de una propuesta con autor y de un grupo de colaboradores que se vincula al proyecto. En docART estuvimos desde el primer día los dos impulsores del proyecto (David y Antonio) y los siete colaboradores que se apuntaron en la convocatoria (Anne, Carla, Mariel, Juan, Henrique, Steven). Tambièn fue seleccionada Andreia pero no pudo incorporarse hasta la segunda semana.
 
