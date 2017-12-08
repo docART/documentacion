@@ -1,7 +1,7 @@
 # Indice de docART #
 
 ![portada](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/portada1.jpeg)
-## Aspectos iniciales ##
+## Aspectos preparatorios ##
 
 [Organización del equipo](https://github.com/docART/documentacion/blob/recipe/prototyping/001_organizacion_del_equipo.md)
 
