@@ -1,4 +1,4 @@
-# Introducción docART #
+# Indice de docART #
 
 ![portada](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/portada1.jpeg)
 
