@@ -1,24 +1,5 @@
 # Manual de docART #
 
-## Aspectos preparatorios ##
-
-[Organización del equipo](https://github.com/docART/documentacion/blob/recipe/prototyping/001_organizacion_del_equipo.md)
-
-[Introducción a la propuesta](https://github.com/docART/documentacion/blob/recipe/prototyping/002_introduccion_a_la_propuesta.md)
-
-## Aspectos conceptuales ##
-
-[Importancia de la documentación](https://github.com/docART/documentacion/blob/recipe/prototyping/11_importancia_de_la_documentacion.md) 
-
-[La relación entre un prototipo y su documentación](https://github.com/docART/documentacion/blob/recipe/prototyping/12_relacion_prototipar_y_documentar.md)
-
-[La importancia de los hechos](https://github.com/docART/documentacion/blob/recipe/prototyping/14_la_importancia_de_los_hechos.md)
-
-[La importacia de los afectos](https://github.com/docART/documentacion/blob/recipe/prototyping/13_la_importancia_de_los_afectos.md)
-
-[La relación entre hechos y afectos](https://github.com/docART/documentacion/blob/recipe/prototyping/15_relacion_entre_hechos_y_afectos.md) 
-
-Referencias
 
 ## Aspectos prácticos ##
 
@@ -41,6 +22,27 @@ Referencias
 [Tres reglas de oro para el hito](https://github.com/docART/documentacion/blob/recipe/prototyping/19_reglas_de_oro_hito.md)
 
 [Mapa de aprendizajes](https://github.com/docART/documentacion/blob/recipe/prototyping/17_mapa_de_aprendizajes.md)
+
+## Aspectos conceptuales ##
+
+[Importancia de la documentación](https://github.com/docART/documentacion/blob/recipe/prototyping/11_importancia_de_la_documentacion.md) 
+
+[La relación entre un prototipo y su documentación](https://github.com/docART/documentacion/blob/recipe/prototyping/12_relacion_prototipar_y_documentar.md)
+
+[La importancia de los hechos](https://github.com/docART/documentacion/blob/recipe/prototyping/14_la_importancia_de_los_hechos.md)
+
+[La importacia de los afectos](https://github.com/docART/documentacion/blob/recipe/prototyping/13_la_importancia_de_los_afectos.md)
+
+[La relación entre hechos y afectos](https://github.com/docART/documentacion/blob/recipe/prototyping/15_relacion_entre_hechos_y_afectos.md) 
+
+Referencias
+
+## Aspectos preparatorios ##
+
+[Organización del equipo](https://github.com/docART/documentacion/blob/recipe/prototyping/001_organizacion_del_equipo.md)
+
+[Introducción a la propuesta](https://github.com/docART/documentacion/blob/recipe/prototyping/002_introduccion_a_la_propuesta.md)
+
 
 
 ![portada](https://github.com/docART/documentacion/blob/recipe/prototyping/grafemas/portada1.jpeg)
