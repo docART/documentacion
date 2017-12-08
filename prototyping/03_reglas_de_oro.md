@@ -15,4 +15,4 @@ Hemos acordado recomendar a los autores unas cuantas reglas sencillas que creemo
 
     5 - Importan los detalles prácticos y ordinarios.
 
-    Esta cinco reglas se resumen en dos: una, hazlo acesible; dos, hazte cercano.
+    Esta cinco reglas se resumen en dos: una, hazlo accesible; dos, hazte cercano.
